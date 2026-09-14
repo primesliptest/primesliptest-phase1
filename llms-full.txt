@@ -1,0 +1,25 @@
+# Prime Safety & Compliance Services — Extended AI/LLM Site Context
+
+## Business identity
+Prime Safety & Compliance Services Pty Ltd is a Perth, Western Australia based independent testing provider. The business positions itself as 100% Western Australia owned and operated. Service coverage includes Perth metro, regional Western Australia and interstate work by arrangement.
+
+## Independent testing position
+Prime Safety does not manufacture, sell or distribute flooring products and positions its testing as independent and objective. Wet and dry slip-testing equipment is calibrated by ISTS, a NATA-accredited laboratory. Prime Safety itself is not a NATA-accredited laboratory.
+
+## Slip resistance testing
+Existing pedestrian surfaces can be assessed using the wet pendulum test method and/or dry floor friction test method under AS 4663:2013, according to the agreed scope. Wet pendulum testing measures frictional characteristics under wet conditions and produces BPN/SRV results that can be classified using applicable guidance. Dry floor friction testing measures coefficient of friction (CoF) under dry conditions and can be classified D0/D1 under the referenced AS 4586 guidance.
+
+## Interpretation
+The supplied Prime Safety report uses AS 4586:2013 classification guidance and SA HB 198:2014 for interpretation. The application matters: entries, transitional areas, wet areas, toilets, shopping-centre areas, external walkways and ramps can have different nominated classifications. A classification result is not a guarantee that a slip incident cannot occur. Site condition, contamination, cleaning, maintenance, footwear, pedestrian behaviour, slope and environmental factors can influence risk.
+
+## Customer education pages
+### Sample report
+URL: https://primesliptest.com.au/sample-slip-test-report.html
+Purpose: show customers how a professional slip resistance report can be structured, including executive summary, scope, methodology, wet and dry results, classifications, observations and next steps. All client, site, report ID and contact data on the page are fictional.
+
+### Slip testing parameters guide
+URL: https://primesliptest.com.au/slip-testing-parameters.html
+Purpose: explain BPN/SRV, CoF, wet P0–P5 classifications, dry D0/D1 classifications, Rubber Sliders 55 and 96, slope and temperature correction concepts, and application-specific interpretation. The page is an educational summary and not a project-specific compliance determination.
+
+## SEO / entity discovery
+Important public pages include the home page, slip resistance service pages, equipment and credentials, team and clients, sample report and testing parameters guide. The XML sitemap at https://primesliptest.com.au/sitemap.xml lists the current public pages.

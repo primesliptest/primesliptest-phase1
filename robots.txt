@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Public HTML, CSS, JS and image assets are crawlable. Private/customer-sensitive report files are not published by this site.
+
+Sitemap: https://primesliptest.com.au/sitemap.xml

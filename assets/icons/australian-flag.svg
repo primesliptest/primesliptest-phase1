@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60" role="img" aria-labelledby="title desc">
+  <title id="title">Australian flag</title>
+  <desc id="desc">Australian national flag</desc>
+  <rect width="120" height="60" fill="#00008B"/>
+  <path d="M0 0h60v30H0z" fill="#012448"/>
+  <path d="M0 0l60 30M60 0L0 30" stroke="#fff" stroke-width="10"/>
+  <path d="M0 0l60 30M60 0L0 30" stroke="#c8102e" stroke-width="5"/>
+  <path d="M30 0v30M0 15h60" stroke="#fff" stroke-width="16"/>
+  <path d="M30 0v30M0 15h60" stroke="#c8102e" stroke-width="8"/>
+  <path d="M30 3v24M6 15h48" stroke="#fff" stroke-width="6"/>
+  <path d="M99 8l1.8 5.6h5.9l-4.8 3.5 1.8 5.7-4.7-3.5-4.8 3.5 1.8-5.7-4.7-3.5h5.9z" fill="#fff"/>
+  <path d="M82 28l1.4 4.2h4.4l-3.6 2.6 1.4 4.2-3.6-2.6-3.6 2.6 1.4-4.2-3.6-2.6h4.4zM100 43l1.3 4h4.2l-3.4 2.5 1.3 4-3.4-2.5-3.4 2.5 1.3-4-3.4-2.5h4.2zM112 31l1.2 3.7h3.9l-3.2 2.3 1.2 3.7-3.1-2.3-3.2 2.3 1.2-3.7-3.1-2.3h3.9z" fill="#fff"/>
+</svg>

@@ -1,0 +1,49 @@
+# Prime Safety & Compliance Services
+
+Official website: https://primesliptest.com.au/
+Business: Prime Safety & Compliance Services Pty Ltd
+Location: Perth, Western Australia, Australia
+Ownership: 100% Western Australia owned and operated
+Service area: Perth metro and regional Western Australia; interstate by arrangement.
+Phone: +61 450 135 119
+Email: admin@primesliptest.com.au
+
+## Core services
+- Slip Resistance Testing
+- Wet Pendulum Testing (AS 4663:2013)
+- Dry Floor Friction Testing using Tortus 3 (AS 4663:2013)
+- Combined Wet & Dry Slip Resistance Testing
+- Electrical Testing & Tagging
+- RCD Testing
+
+## Customer education
+- Sample Slip Test Report: https://primesliptest.com.au/sample-slip-test-report.html
+- Slip Testing Parameters Guide: https://primesliptest.com.au/slip-testing-parameters.html
+- The sample report page is a fictional demonstration. Client, site, report ID and contact details shown there are dummy data and must not be treated as a real client record.
+- The parameters guide explains wet pendulum testing, dry floor friction testing, BPN/SRV, CoF, P0–P5 and D0–D1 classifications, Rubber Sliders 55 and 96, and correction/interpretation concepts.
+
+## Reporting
+Professional PDF reports can include test locations, methods and conditions, measured results, applicable classifications, photographs, observations and practical next-step recommendations where included in the agreed scope.
+
+## Standards and assurance
+- AS 4663:2013 for existing pedestrian surface slip-resistance test methods.
+- AS 4586:2013 classification guidance for pedestrian surface materials, as referenced for interpretation in Prime Safety reporting.
+- SA HB 198:2014 interpretative guidance for particular applications.
+- Wet and dry slip-testing equipment is calibrated by ISTS, a NATA-accredited laboratory.
+- Prime Safety itself is not a NATA-accredited laboratory.
+
+## Main pages
+- https://primesliptest.com.au/
+- https://primesliptest.com.au/slip-resistance-testing.html
+- https://primesliptest.com.au/wet-pendulum-testing.html
+- https://primesliptest.com.au/dry-floor-friction-testing.html
+- https://primesliptest.com.au/combined-wet-dry-slip-testing.html
+- https://primesliptest.com.au/electrical-compliance.html
+- https://primesliptest.com.au/electrical-test-and-tag.html
+- https://primesliptest.com.au/rcd-testing.html
+- https://primesliptest.com.au/projects.html
+- https://primesliptest.com.au/equipment-and-credentials.html
+- https://primesliptest.com.au/team-and-clients.html
+- https://primesliptest.com.au/resources.html
+- https://primesliptest.com.au/sample-slip-test-report.html
+- https://primesliptest.com.au/slip-testing-parameters.html
