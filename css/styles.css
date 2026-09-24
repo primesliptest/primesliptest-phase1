@@ -639,3 +639,51 @@ button,a,input,select,textarea{touch-action:manipulation}
 @media(max-width:1050px){.report-kpi-grid{grid-template-columns:1fr 1fr}.parameter-flow{grid-template-columns:1fr 1fr}}
 @media(max-width:820px){.report-toolbar{display:block}.report-status{margin-top:12px}.report-method-cards,.class-grid,.results-summary,.slider-compare,.parameter-grid,.application-grid{grid-template-columns:1fr}.report-document-head{display:block}.report-document-head>div:last-child{text-align:left;margin-top:16px}.report-table{min-width:680px}.report-hero-panel{min-height:390px}.parameter-visual{min-height:360px}.sample-warning{grid-template-columns:1fr}.customer-logo-card{width:190px;height:110px}}
 @media(max-width:560px){.report-pane{padding:16px}.report-tabs{overflow:auto;flex-wrap:nowrap;padding-bottom:5px}.report-tab{white-space:nowrap}.report-kpi-grid{grid-template-columns:1fr 1fr}.report-hero-panel{border-radius:20px}.customer-logo-card{width:170px;height:100px}.customer-track{animation-duration:28s}}
+
+/* ========================================================================
+   TARGETED BRAND / ACCESSIBILITY FIXES — SEPTEMBER 2026
+   Scoped additions only: favicon is markup-driven; these rules handle the
+   supplied mobile logo, Country acknowledgement imagery and new credentials.
+   ======================================================================== */
+.ack-inner{align-items:center}
+.ack-visuals{display:flex;align-items:center;justify-content:center;gap:7px;flex:0 0 auto}
+.ack-icon{display:block;width:34px;height:22px;object-fit:cover;border-radius:2px;box-shadow:0 0 0 1px rgba(255,255,255,.12)}
+.ack-icon-australia{object-fit:contain;height:22px;background:rgba(255,255,255,.04)}
+.brand-logo-mobile{display:none!important}
+.footer-ack{align-items:center}
+.footer-ack-icons{display:flex;align-items:center;gap:7px;flex:0 0 auto}
+.footer-ack .ack-flag{display:block;width:34px;height:22px;object-fit:cover;border-radius:2px;box-shadow:0 0 0 1px rgba(255,255,255,.10)}
+.footer-ack .ack-flag:first-child{object-fit:contain;background:rgba(255,255,255,.04)}
+.badge-cm3{display:inline-flex;align-items:center;gap:5px}
+.badge-cm3 img{width:38px;height:18px;object-fit:contain}
+.badge-onlineinduction{display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.onlineinduction-logo-wrap{display:inline-flex;align-items:center;justify-content:center;background:#fff;border-radius:3px;padding:2px 4px;height:20px;box-sizing:border-box}
+.onlineinduction-logo-wrap img{display:block;width:76px;height:13px;object-fit:contain}
+
+@media(max-width:820px){
+  .brand-logo-desktop{display:none!important}
+  .brand-logo-mobile{display:block!important;width:88px;height:58px;max-height:58px;object-fit:contain;object-position:left center}
+  .ack-inner{gap:10px}
+  .ack-visuals{gap:5px}
+  .ack-icon{width:28px;height:19px}
+  .ack-icon-australia{height:19px}
+  .ack p{flex:1;min-width:0}
+  .footer-ack{gap:10px}
+  .footer-ack-icons{gap:5px}
+  .footer-ack .ack-flag{width:28px;height:19px}
+  .badges{justify-content:flex-start}
+}
+@media(max-width:560px){
+  .brand-logo-mobile{width:84px;height:56px;max-height:56px}
+  .ack-inner{align-items:flex-start}
+  .ack-visuals{padding-top:1px}
+  .ack-icon{width:25px;height:17px}
+  .ack-icon-australia{height:17px}
+  .footer-ack{align-items:flex-start}
+  .footer-ack-icons{padding-top:1px}
+  .footer-ack .ack-flag{width:25px;height:17px}
+  .badge-onlineinduction{white-space:normal}
+  .onlineinduction-logo-wrap{height:19px}
+  .onlineinduction-logo-wrap img{width:70px;height:12px}
+}
+
