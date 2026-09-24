@@ -28,6 +28,8 @@ Professional PDF reports can include test locations, methods and conditions, mea
 ## Standards and assurance
 - AS 4663:2013 for existing pedestrian surface slip-resistance test methods.
 - AS 4586:2013 classification guidance for pedestrian surface materials, as referenced for interpretation in Prime Safety reporting.
+- OnlineInduction.com Registered Contractor credential is displayed in Prime Safety site credentials.
+- CM3 Certified Contractor credential is displayed in Prime Safety site credentials.
 - SA HB 198:2014 interpretative guidance for particular applications.
 - Wet and dry slip-testing equipment is calibrated by ISTS, a NATA-accredited laboratory.
 - Prime Safety itself is not a NATA-accredited laboratory.
